@@ -1,1 +1,1 @@
-city:nbanglore
+city :nbangalore
